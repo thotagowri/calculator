@@ -102,7 +102,7 @@ namespace ConsoleApp1
 
                 }
 
-                Console.WriteLine("Do you want to make another caliculation? (y/n)");
+                Console.WriteLine("Do you want to make another caliculation or do you want to quit? (y/n)");
                 again = char.Parse(Console.ReadLine());
 
             }
